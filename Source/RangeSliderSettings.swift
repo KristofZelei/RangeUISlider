@@ -6,11 +6,7 @@
 //  2021 Fabrizio Duroni.
 //
 
-#if canImport(SwiftUI)
-import SwiftUI
-
 @available(iOS 14.0, *)
 class RangeSliderSettings {
     var values: [String: Any] = [:]
 }
-#endif
